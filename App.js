@@ -71,9 +71,7 @@ class App extends Component {
 App = codePush(codePushOptions)(App);
 
 const styles = StyleSheet.create({
-  scrollView: {
-    backgroundColor: Colors.lighter,
-  },
+  scrollView: {backgroundColor: Colors.lighter},
   engine: {
     position: 'absolute',
     right: 0,
