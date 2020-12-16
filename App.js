@@ -42,7 +42,7 @@ class App extends Component {
               </Text>
               </View>
               <View style={styles.sectionContainer}>
-                <Text style={styles.sectionTitle}>See Your Changes</Text>
+                <Text style={styles.sectionTitle}>See Your Changes in the app</Text>
                 <Text style={styles.sectionDescription}>
                   <ReloadInstructions />
                 </Text>
